@@ -1,14 +1,13 @@
-Descripción
-Este proyecto utiliza Laravel, un framework de aplicación web con una sintaxis expresiva y elegante. Hacemos uso de la última versión de PHP, que en este caso es la 8.2. Para el servidor local, se recomienda utilizar XAMPP.
+# PRUEBA FREELANCER
 
-Tecnologías Utilizadas
-Laravel: Framework de aplicación web.
-PHP 8.2: Última versión del lenguaje de programación PHP.
-XAMPP: Paquete de software gratuito y de código abierto que contiene Apache, MySQL, PHP y Perl.
-jQuery: Biblioteca de JavaScript rápida, pequeña y rica en funciones.
-AJAX: Tecnología que permite enviar y recibir datos de un servidor en segundo plano, sin interferir con la visualización de la página.
-Motivo de la Selección
-Optamos por estas tecnologías debido a su versatilidad, seguridad y rendimiento. Laravel ofrece una experiencia de desarrollo agradable y eficiente, mientras que PHP 8.2 proporciona características avanzadas y mejoras en el rendimiento. XAMPP es una opción popular para configurar un entorno de desarrollo local. Además, jQuery y AJAX son herramientas útiles para crear aplicaciones web interactivas y dinámicas.
+## Descripción
 
-Limitaciones
-A pesar de la solicitud de utilizar versiones específicas, se optó por versiones alternativas debido a la compatibilidad con otros proyectos y a las necesidades específicas del desarrollo. Esto puede afectar ligeramente el comportamiento y las características del proyecto.
+Este proyecto se desarrolla utilizando **Laravel**, un potente framework de PHP diseñado para facilitar el desarrollo de aplicaciones web robustas y seguras. Optamos por la última versión de PHP, específicamente la **8.2**, aprovechando sus características avanzadas y mejoras en el rendimiento. Para el entorno de desarrollo local, recomendamos **XAMPP**, un paquete de software que incluye Apache, MySQL, PHP y Perl, ofreciendo una solución completa y fácil de configurar.
+
+Además, integramos **jQuery** y **AJAX** en nuestro stack tecnológico. **jQuery** nos permite simplificar la manipulación de HTML, manejo de eventos, animaciones y mucho más, todo ello con una API fácil de usar. **AJAX**, por otro lado, nos permite realizar solicitudes HTTP asíncronas al servidor, permitiendo actualizar partes de la página web sin necesidad de recargar toda la página.
+
+El motivo principal detrás de nuestra elección de estas tecnologías es su versatilidad, seguridad y rendimiento. Laravel nos brinda una base sólida sobre la cual construir aplicaciones web escalables y mantenibles, mientras que PHP 8.2 nos da acceso a nuevas funcionalidades y optimizaciones. XAMPP facilita la configuración de un entorno de desarrollo local, haciendo que el proceso de desarrollo sea más eficiente. Finalmente, jQuery y AJAX nos permiten crear experiencias de usuario interactivas y dinámicas.
+
+## Limitaciones
+
+Aunque hemos seleccionado versiones específicas de nuestras tecnologías favoritas, hemos tenido que adaptarnos a versiones alternativas para garantizar la compatibilidad con otros proyectos y satisfacer ciertas necesidades específicas del desarrollo. Estas adaptaciones pueden resultar en diferencias menores en términos de comportamiento y características dentro del proyecto.
